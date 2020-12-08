@@ -1,0 +1,5 @@
+host = "smtp.qq.com"
+port = "465"
+user = ""
+password = ""
+to = [""]
